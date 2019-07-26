@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.app-bar {
+  margin-bottom: 10px;
+}
+
+.text-field {
+  margin: 10px !important;
+}
+
+.qr-code {
+  text-align: center;
+  width: 100%;
+}
